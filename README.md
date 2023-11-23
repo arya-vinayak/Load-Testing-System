@@ -36,16 +36,15 @@ $ kafka-server-start /opt/homebrew/etc/kafka/server.properties
 Clone the repository:
 
 ```bash
-bashCopy code
-git clone https://github.com/your-username/GoLoadTester.git
-cd GoLoadTester
+git clone https://github.com/arya-vinayak/Load-Testing-System.git
+cd Load-Testing-System
 
 ```
 
 Build the executable:
 
 ```bash
-bashCopy code
+
 go build
 
 ```
